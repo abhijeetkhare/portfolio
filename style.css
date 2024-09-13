@@ -1,0 +1,61 @@
+h2{
+    color: rgb(100, 102, 189);
+}
+button{
+    color: darkorange;
+    background-color: beige;
+}
+body{
+    background-image: url(—Pngtree—contemporary\ lifelike\ templates\ for\ website_8832032.jpg);
+    background-size: cover;
+}
+#box{
+    background-color: azure;
+}
+#abc{
+    width: 27%;
+    height: 272px;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgba(9, 9, 9, 0.2)
+    
+}
+#abc:hover{
+    box-shadow: 5px 5px 15px black;
+    transition: 0.5s ease;
+}
+#nav{
+    height: 60px;
+    background-color: rgba(red, green, blue, 0.9s);
+    position: fixed;
+    top: 0px;
+
+}
+
+#logo{
+    color: rgb(186, 186, 26);
+    font-size: 25px;
+}
+    
+#na{
+    padding: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: aliceblue    ;
+}
+#recruit:hover{
+    color: white;
+    background-color: black;
+    box-shadow: 5px 5px 5px white;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* li {
+    list-style-type: none;
+    /* No need for display: inline; */
+    /* flex-grow: 1; Optional: This makes the items take equal space */
+    /* text-align: center; /* Centers the text inside the li */
+/* } */ 
